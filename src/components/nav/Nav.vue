@@ -29,7 +29,7 @@ export default {};
   color: #666;
 }
 .active {
-  color: #daa520;
+  color: #ffbb22;
   position: relative;
 }
 .active::after{
@@ -37,7 +37,7 @@ export default {};
     position:absolute;
     width: 20px;
     height: 2px;
-    background-color: #daa520;
+    background-color: #ffbb22;
     bottom: 0;
     left: 50%;
     margin-left: -10px;
